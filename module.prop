@@ -1,0 +1,10 @@
+id=MOsPremiumADB
+name=MOs Premium v13 — Full-Stack FPS Engine
+version=v13.2
+versionCode=1402
+author=jogominecraft1234
+description=MOs v13.2 Full-Stack FPS — VIP Presets maximizados: BBR2 67MB buffers, iowait_boost, USAP refill=2, swappiness=0, heap 2g Phantom, GPU min_freq forced (Adreno/Mali/PowerVR/Xclipse), SFphase 100-200us, APEX perf governor, ALL_IN 120Hz lock, dynamic CPU-core dex2oat, heavy-games auto-boost (Genshin, PUBG, COD Mobile, Wuthering Waves, Fortnite, Roblox + more). Android 12-15. By Murilo.
+minApi=21
+maxApi=99
+axeronPlugin=14000
+banner=banner.png
